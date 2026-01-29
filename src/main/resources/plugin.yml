@@ -3,3 +3,8 @@ version: "0.1.0"
 api-version: "1.21"
 authors: [tzimom, Skylike]
 main: net.tzimom.enderchest.EnderChestPlugin
+commands:
+  enderchest:
+    description: Opens your ender chest
+    usage: /enderchest
+    aliases: [ec]
